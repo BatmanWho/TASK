@@ -51,9 +51,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Radial Menu Framework\Scripts\RMF_Demo.cs" />
+     <Compile Include="Assets\Radial Menu Framework\Scripts\RMF_ForceDirection.cs" />
+     <Compile Include="Assets\Radial Menu Framework\Scripts\RMF_RadialMenu.cs" />
+     <Compile Include="Assets\Radial Menu Framework\Scripts\RMF_RadialMenuElement.cs" />
      <Compile Include="Assets\Scripts\CubeObjectSelection.cs" />
      <Compile Include="Assets\Scripts\CylinderObjectSelection.cs" />
      <Compile Include="Assets\Scripts\Dropdown.cs" />
+     <Compile Include="Assets\Scripts\NoARPlease.cs" />
+     <Compile Include="Assets\Scripts\SceneChange.cs" />
      <Compile Include="Assets\Scripts\SphereObjectSelection.cs" />
      <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
      <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
